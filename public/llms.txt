@@ -1,0 +1,68 @@
+# יום הולדת — Generative Engine Optimization Map
+
+> A birthday celebration website intended to mark a special personal milestone. The site likely serves as a digital invitation, event hub, or memory showcase for a birthday event.
+
+---
+
+## Pages
+
+### בית
+https://-c94938c0.zappy5.app
+A birthday celebration website intended to mark a special personal milestone. The site likely serves as a digital invitation, event hub, or memory showcase for 
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c94938c0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c94938c0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c94938c0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-c94938c0.zappy5.app
+- Endpoint: https://-c94938c0.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יום הולדת
+A birthday celebration website intended to mark a special personal milestone. The site likely serves as a digital invitation, event hub, or memory showcase for a birthday event.
+
+## Target Audience
+- הורים לילדים בגיל גן
+- בני נוער טכנולוגיים
+- מתכנני אירועים למבוגרים
+- סבים וסבתות מתכנני מתנות
+- מתכנני אירועים לחברות
+
+## Industry
+Event / Birthday
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-c94938c0.zappy5.app/sitemap.xml
+- Robots: https://-c94938c0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-c94938c0.zappy5.app/llms-full.txt
